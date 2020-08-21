@@ -15,12 +15,9 @@
 
 This category mainly aggregates various security tools, and prefers complete projects with higher availability.
 
+
+
 ## ksubdomain
-Tag:
-
-- Go
-- subdomain
-
 #### Project link：
 
 [https://github.com/knownsec/ksubdomain](https://github.com/knownsec/ksubdomain)
@@ -29,13 +26,9 @@ Tag:
 
 ksubdomain is the fastest subdomain enumeration tool, and it runs on Windows/Linux/Mac.
 
+
+
 ## Zoomeye Tools
-Tag:
-
-- Chrome crx
-- Zoomeye
-- Pentest
-
 #### Project link：
 
 [https://github.com/knownsec/Zoomeye-Tools](https://github.com/knownsec/Zoomeye-Tools)
@@ -48,12 +41,9 @@ Minitools is currently integrated for use in zoomeye.org, copy all targets in mu
 
 Preview implements a simple Zoomeye interface. When a user login and clicks on preview, he can quickly and easily see various information of the current station ip and open port information.
 
+
+
 ## Pocsuite3
-Tag:
-
-- Python3
-- Pentest
-
 #### Project link：
 
 [https://github.com/knownsec/pocsuite3](https://github.com/knownsec/pocsuite3)
@@ -62,11 +52,9 @@ Tag:
 
 pocsuite3 is an open-sourced remote vulnerability testing and proof-of-concept development framework developed by the [**Knownsec 404 Team**](http://www.knownsec.com/). It comes with a powerful proof-of-concept engine, many powerful features for the ultimate penetration testers and security researchers.
 
+
+
 ## Zoomeye SDK
-Tag:
-
-- Zoomeye
-
 #### Project link：
 
 [https://github.com/knownsec/ZoomEye](https://github.com/knownsec/ZoomEye)
@@ -77,11 +65,9 @@ Tag:
 
 [ZoomEye API](https://www.zoomeye.org/api/doc) is a web service that provides convenient access to ZoomEye features, data, information over HTTPS. The platform API empowers developers to automate, extend and connected with ZoomEye. You can use the ZoomEye platform API to programmatically create apps, provision some add-ons and perform some automate tasks. Just imagine that what you could do amazing stuff with ZoomEye.
 
-## wam
-Tag:
-- Python
-- Monitor
 
+
+## wam
 #### Project link：
 
 [https://github.com/knownsec/wam](https://github.com/knownsec/wam)
@@ -97,17 +83,13 @@ IDM Model: This module uses Web crawler to fetch the industry dynamic informatio
 VDR Model: This module manager all of application package in the history, and save the updated version of which DIFF details;
 
 
+
+
 # Minitools
 
 This category mainly aggregates gadgets and scripts involved in various security research processes, aiming to optimize the daily security automation experience.
 
 ## ipstatistics
-Tag:
-
-- Python
-- ipip
-- ip filter
-
 #### Project link：
 
 [https://github.com/knownsec/Minitools-ipstatistics](https://github.com/knownsec/Minitools-ipstatistics)
@@ -119,11 +101,6 @@ ipstatistics is a script based on the ipip library that is used to quickly filte
 
 
 ## cidrgen
-Tag:
-
-- go
-- Scan
-
 #### Project link：
 
 [https://github.com/knownsec/Minitools-cidrgen](https://github.com/knownsec/Minitools-cidrgen)

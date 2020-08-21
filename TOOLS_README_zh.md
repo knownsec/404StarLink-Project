@@ -17,12 +17,9 @@
 该分类下主要聚合各类安全工具，偏向于可用性较高的完整项目。
 
 
+
+
 ## ksubdomain
-Tag:
-
-- Go
-- subdomain
-
 #### 项目链接：
 
 [https://github.com/knownsec/ksubdomain](https://github.com/knownsec/ksubdomain)
@@ -31,13 +28,9 @@ Tag:
 
 ksubdomain是最快的子域名爆破工具,并且能运行在Windows/Linux/Mac，它可以很快的进行DNS爆破，在Mac和Windows上理论最大发包速度在30w/s,linux上为160w/s的速度。
 
+
+
 ## Zoomeye Tools
-
-Tag:
-
-- Chrome crx
-- Zoomeye
-- Pentest
 
 #### 项目链接：
 
@@ -51,12 +44,9 @@ minitools目前集成了针对zoomeye.org使用过程中，以多种格式复制
 
 preview实现了一个简易的Zoomeye界面，当用户登录并点开preview时，可以方便快捷的看到当前站ip的各种信息以及开放端口信息。
 
+
+
 ## Pocsuite3
-
-Tag:
-
-- Python3
-- Pentest
 
 #### 项目链接：
 
@@ -66,11 +56,9 @@ Tag:
 
 pocsuite3是由Knownsec 404团队开发的开源远程漏洞测试和概念验证开发框架。它带有强大的概念验证引擎，以及针对最终渗透测试人员和安全研究人员的许多强大功能。
 
+
+
 ## Zoomeye SDK
-Tag:
-
-- Zoomeye
-
 #### 项目链接：
 
 [https://github.com/knownsec/ZoomEye](https://github.com/knownsec/ZoomEye)
@@ -81,11 +69,9 @@ Tag:
 
 [ZoomEye API](https://www.zoomeye.org/api/doc)是一项Web服务，可通过HTTPS方便地访问ZoomEye功能，数据和信息。 平台API使开发人员能够自动化，扩展和连接ZoomEye。 您可以使用ZoomEye平台API来以编程方式创建应用，提供一些附加组件并执行一些自动化任务。 试想一下，使用ZoomEye可以做得很棒。
 
-## wam
-Tag:
-- Python
-- Monitor
 
+
+## wam
 #### 项目链接：
 
 [https://github.com/knownsec/wam](https://github.com/knownsec/wam)
@@ -101,17 +87,15 @@ IDM模型：此模块使用Web搜寻器来获取行业动态信息并将其报�
 VDR Model：此模块管理器在历史记录中的所有应用程序包，并保存其中DIFF详细信息的更新版本；
 
 
+
+
 # Minitools
 
 该分类下主要聚合各类安全研究过程中涉及到的小工具、脚本，旨在优化日常安全自动化的使用体验。
 
+
+
 ## ipstatistics
-
-Tag:
-
-- Python
-- ipip
-- ip filter
 
 #### 项目链接：
 
@@ -124,11 +108,6 @@ ipstatistics是一个基于ipip库的，用于快速筛选ip列表的脚本，�
 
 
 ## cidrgen
-
-Tag:
-
-- go
-- Scan
 
 #### 项目链接：
 
