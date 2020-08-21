@@ -10,13 +10,23 @@
 
 * [Project](#project)
   *	[ksubdomain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ksubdomain) 
+    *	最快的子域名爆破工具
   *	[Zoomeye Tools](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-tools)
+    *	Zoomeye Tools是配合Zoomeye使用的Chrome插件
   *	[Pocsuite3](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#pocsuite3)
+    *	开源的python3漏洞测试框架
   *	[Zoomeye SDK](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-sdk)
+    *	ZoomEye API SDK
   *	[wam](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#wam)
+    *	wam是一个用于监视Web app、各类行业动态信息的监控平台
 * [Minitools](#minitools)
   * [ipstatistics](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ipstatistics)
+    * ipstatistics是一个基于ipip库的，用于快速筛选ip列表的脚本
   * [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cidrgen)
+    * cidrgen基于cidr的子网IP列表生成器
 
 
 
+# Loading
+
+“星链计划”将会是一个长期而持久的计划，本项目下长期收取有关安全研究、渗透测试过程中的idea，如果idea有意义，那么Knownsec 404Team将会持续跟进相应的工具，期待通过“星链计划”让安全真正工具化。
