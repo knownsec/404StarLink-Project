@@ -9,9 +9,14 @@
 # Contents
 
 * [Project](#project)
-  * [Zoomeye Tools](#zoomeye-tools)
-  * [Pocsuite3](#pocsuite3)
+  *	[ksubdomain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ksubdomain) 
+  *	[Zoomeye Tools](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-tools)
+  *	[Pocsuite3](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#pocsuite3)
+  *	[Zoomeye SDK](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-sdk)
+  *	[wam](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#wam)
 * [Minitools](#minitools)
-  * [ipstatistics](#ipstatistics)
-  * [cidrgen](#cidrgen)
+  * [ipstatistics](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ipstatistics)
+  * [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cidrgen)
+
+
 

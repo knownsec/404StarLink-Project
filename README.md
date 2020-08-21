@@ -19,14 +19,14 @@ These are not limited to large-scale tools that break through security barriers,
 # Contents
 
 * [Project](#project)
-  *	[ksubdomain](#ksubdomain) 
-  * [Zoomeye Tools](#zoomeye-tools)
-  * [Pocsuite3](#pocsuite3)
-  * [Zoomeye SDK](#Zoomeye-SDK)
-  * [wam](#wam)
+  *	[ksubdomain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#ksubdomain) 
+  * [Zoomeye Tools](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#zoomeye-tools)
+  * [Pocsuite3](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#pocsuite3)
+  * [Zoomeye SDK](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#zoomeye-sdk)
+  * [wam](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#wam)
 * [Minitools](#minitools)
-  * [ipstatistics](#ipstatistics)
-  * [cidrgen](#cidrgen)
+  * [ipstatistics](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#ipstatistics)
+  * [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#cidrgen)
 
 
 

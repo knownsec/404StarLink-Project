@@ -29,7 +29,7 @@ Tag:
 
 #### 项目简述：
 
-ksubdomain是一款基于无状态子域名爆破工具，支持在Windows/Linux/Mac上使用，它会很快的进行DNS爆破，在Mac和Windows上理论最大发包速度在30w/s,linux上为160w/s的速度。
+ksubdomain是最快的子域名爆破工具,并且能运行在Windows/Linux/Mac，它可以很快的进行DNS爆破，在Mac和Windows上理论最大发包速度在30w/s,linux上为160w/s的速度。
 
 ## Zoomeye Tools
 
