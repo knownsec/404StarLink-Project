@@ -39,8 +39,8 @@ Not only large tools which break security barriers，various small tools that op
 
 # Loading
 
-The "Starlink Project" will be a long-term and lasting plan. Under this project, ideas in the process of security research and penetration testing will be collected for a long time. If the idea is meaningful, Knownsec 404Team will continue to follow up with the corresponding tools and look forward to passing it. The "Starlink Project" makes security truly instrumental.
+The 404 Starlink Project is a long-term project. We collect ideas from security research and penetration testing for a long time. If your idea is meaningful, the 404 Starlink Project will follow up with the tools and look forward to making security field become instrumentalizing.
 
 
 
-“星链计划”将会是一个长期而持久的计划，本项目下长期收取有关安全研究、渗透测试过程中的idea，如果idea有意义，那么Knownsec 404Team将会持续跟进相应的工具，期待通过“星链计划”让安全真正工具化。
+“星链计划”将会是一个长期而持久的计划，本项目下长期收取有关安全研究、渗透测试过程中的痛点，欢迎社会各界的安全研究人员提供idea，如果idea有意义，那么Knownsec 404Team将会持续跟进相应的工具，期待通过“星链计划”让安全真正工具化。
