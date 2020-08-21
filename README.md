@@ -2,9 +2,9 @@
 
 ![](./logo.png)
 
-The "404 Starlink Project" is a plan started by the Knownsec 404Team in 2020. It aims to maintain and promote the tooling of different links in various fields of security research through open source or open methods, just like Starlink Similarly, link researchers based in different security fields and different security links.
+The  404 Starlink Project was started by Knownsec 404Team in 2020. We aim to denfend network and promote the  Instrumentalizing  of security research in different fields through open source or open methods. Just like Starlink, this project will link researchers with different security background.
 
-These are not limited to large-scale tools that break through security barriers, but also various small tools related to optimizing the daily use experience. In addition to the opening of the tools developed by 404 itself, it will also continue to collect pain points in the process of security research and penetration testing. Through the "404 Starlink Project", the various problems of complex tools, uneven levels, and open source and unmaintained in the security circle are improved, and a technical atmosphere for promoting and communicating with better and more open security tools is created.
+Not only large tools which break security barriers，various small tools that optimizing the daily experience are included. We will open all tools developed by 404 Team, and continue to collect pain points in the process of security research and penetration testing.  The security field used to have various problems, like   tools jumbled, different levels obvious, and open source be unmaintained. Through the 404 Starlink Project, we wish security field would become a better place where people like to communicate and progress together.
 
 
 
