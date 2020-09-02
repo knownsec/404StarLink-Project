@@ -44,3 +44,23 @@ The 404 Starlink Project is a long-term project. We collect ideas from security 
 
 
 “星链计划”将会是一个长期而持久的计划，本项目下长期收取有关安全研究、渗透测试过程中的痛点，欢迎社会各界的安全研究人员提供idea，如果idea有意义，那么Knownsec 404Team将会持续跟进相应的工具，期待通过“星链计划”让安全真正工具化。
+
+
+
+# Community
+
+如果有问题可以在各项目下提交issue，如果有不错的issue或者已有的工具推荐，可以提交星链计划的issue, 也可以添加下方的讨论组中参与讨论。
+
+1、Github issue: [https://github.com/knownsec/404StarLink-Project/issues](https://github.com/knownsec/404StarLink-Project/issues)
+
+2、微信群：
+
+​	微信群有两种添加方式：
+
+​	(1) 联系Seebug的各位小伙伴拉你入群，如：
+
+​	![image-20200902105354031](./init1.png)
+
+​	(2) 扫描一下二维码添加我的个人微信，会把大家拉到星链计划交流群中
+
+<img src="./init2.png" alt="image-20200902105546332" style="zoom:50%;" />
