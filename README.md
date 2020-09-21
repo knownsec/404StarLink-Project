@@ -34,7 +34,7 @@ Not only large tools which break security barriers，various small tools that op
   * [wam](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#wam)
     * WAM is a platform powered by Python to monitor "Web App"
 * [Minitools](#minitools)
-  * [bin_extractor](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#bin-extractor)
+  * [bin_extractor](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#bin_extractor)
     * A simple script for quickly mining sensitive information in binary files.
    * [CookieTest](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#cookietest)
       * A script used to quickly test APIs or required parameters and cookies for a certain request.

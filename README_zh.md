@@ -24,7 +24,7 @@
   * [wam](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#wam)
     *	wam是一个用于监视Web app、各类行业动态信息的监控平台
 * [Minitools](#minitools)
-  * [bin_extractor](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#bin-extractor)
+  * [bin_extractor](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#bin_extractor)
     * 一个简单的用于快速挖掘二进制文件中敏感信息的脚本
    * [CookieTest](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#cookietest)
       * 用于快速测试api或某个请求的必选参数、cookie的脚本.

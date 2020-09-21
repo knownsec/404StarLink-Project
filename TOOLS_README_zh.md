@@ -12,7 +12,7 @@
   
 * [Minitools](#minitools)
   
-  	- [bin_extractor](#bin-extractor)
+  	- [bin_extractor](#bin_extractor)
   	- [CookieTest](#cookietest)
   
   * [ipstatistics](#ipstatistics)
