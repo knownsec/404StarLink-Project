@@ -121,6 +121,30 @@ VDR Model: This module manager all of application package in the history, and sa
 
 This category mainly aggregates gadgets and scripts involved in various security research processes, aiming to optimize the daily security automation experience.
 
+## bin_extractor
+
+#### Project link：
+
+[https://github.com/knownsec/Minitools-bin_extractor](https://github.com/knownsec/Minitools-bin_extractor)
+
+#### Project Overview：
+
+A simple script for quickly mining sensitive information in binary files. It can be used to quickly dig and verify inscription information such as URL links in binary files.
+
+
+
+## CookieTest
+
+#### Project link：
+
+[https://github.com/knownsec/Minitools-CookieTest](https://github.com/knownsec/Minitools-CookieTest)
+
+#### Project Overview：
+
+A script used to quickly test APIs or required parameters and cookies for a certain request. It can be used to quickly confirm the required parameters of an api for further testing of penetration, etc.
+
+
+
 ## ipstatistics
 #### Project link：
 
