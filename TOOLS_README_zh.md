@@ -1,12 +1,20 @@
 # Contents
 
 * [Project](#project)
+  
+  * [KunLun-M](#kunlun-m)
+  * [LBot](#lbot)
   * [ksubdomain](#ksubdomain) 
   * [Zoomeye Tools](#zoomeye-tools)
   * [Pocsuite3](#pocsuite3)
   * [Zoomeye SDK](#Zoomeye-SDK)
   * [wam](#wam)
+  
 * [Minitools](#minitools)
+  
+  	- [bin_extractor](#bin-extractor)
+  	- [CookieTest](#cookietest)
+  
   * [ipstatistics](#ipstatistics)
   * [cidrgen](#cidrgen)
 
@@ -15,6 +23,36 @@
 # Project
 
 该分类下主要聚合各类安全工具，偏向于可用性较高的完整项目。
+
+
+
+## KunLun-M
+
+#### 项目链接：
+
+[https://github.com/LoRexxar/Kunlun-M](https://github.com/LoRexxar/Kunlun-M)
+
+#### 项目简述：
+
+Kunlun-Mirror是从Cobra-W2.0发展而来，在经历了痛苦的维护改进原工具之后，昆仑镜将工具的发展重心放在安全研究员的使用上，将会围绕工具化使用不断改进使用体验。
+
+目前工具主要支持php、javascript的语义分析，以及chrome ext, solidity的基础扫描.
+
+KunLun-M可能是市面上唯一的开源并长期维护的自动化代码审计工具，希望开源工具可以推动白盒审计的发展:>.
+
+
+
+## LBot
+
+#### 项目链接：
+
+[https://github.com/knownsec/LBot](https://github.com/knownsec/LBot)
+
+#### 项目简述：
+
+XSS Bot是CTF比赛中出XSS的一大门槛，后端性能不够，环境处理不完善各种都会影响到Bot的每一环。
+
+LBot是脱胎于爬虫的简单模板，配合相应的功能，可以方便快捷的完成一个成熟的Bot。
 
 
 
@@ -92,6 +130,30 @@ VDR Model：此模块管理器在历史记录中的所有应用程序包，并�
 # Minitools
 
 该分类下主要聚合各类安全研究过程中涉及到的小工具、脚本，旨在优化日常安全自动化的使用体验。
+
+
+
+## bin_extractor
+
+#### 项目链接：
+
+[https://github.com/knownsec/Minitools-bin_extractor](https://github.com/knownsec/Minitools-bin_extractor)
+
+#### 项目简述：
+
+一个简单的用于快速挖掘二进制文件中敏感信息的脚本。可以用来快速挖掘并验证二进制文件中的url链接等铭感信息。
+
+
+
+## CookieTest
+
+#### 项目链接：
+
+[https://github.com/knownsec/Minitools-CookieTest](https://github.com/knownsec/Minitools-CookieTest)
+
+#### 项目简述：
+
+用于快速测试api或某个请求的必选参数、cookie的脚本。可以用来快速确认某个api的必选参数以便进一步测试渗透等.
 
 
 

@@ -9,17 +9,25 @@
 # Contents
 
 * [Project](#project)
-  *	[ksubdomain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ksubdomain) 
+  * [KunLun-M](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#kunlun-m)
+    * Kunlun-Mirror. 专注于安全研究人员使用的白盒代码审计工具
+  * [LBot](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#lbot)
+    * 一个简单的Xss bot模板
+  * [ksubdomain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ksubdomain) 
     *	最快的子域名爆破工具
-  *	[Zoomeye Tools](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-tools)
+  * [Zoomeye Tools](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-tools)
     *	Zoomeye Tools是配合Zoomeye使用的Chrome插件
-  *	[Pocsuite3](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#pocsuite3)
+  * [Pocsuite3](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#pocsuite3)
     *	开源的python3漏洞测试框架
-  *	[Zoomeye SDK](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-sdk)
+  * [Zoomeye SDK](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-sdk)
     *	ZoomEye API SDK
-  *	[wam](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#wam)
+  * [wam](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#wam)
     *	wam是一个用于监视Web app、各类行业动态信息的监控平台
 * [Minitools](#minitools)
+  * [bin_extractor](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#bin-extractor)
+    * 一个简单的用于快速挖掘二进制文件中敏感信息的脚本
+   * [CookieTest](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#cookietest)
+      * 用于快速测试api或某个请求的必选参数、cookie的脚本.
   * [ipstatistics](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ipstatistics)
     * ipstatistics是一个基于ipip库的，用于快速筛选ip列表的脚本
   * [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cidrgen)
