@@ -1,7 +1,7 @@
 # Contents
 
 * [Project](#project)
-  
+  * [Portforward](#portforward)
   * [KunLun-M](#kunlun-m)
   * [LBot](#lbot)
   * [ksubdomain](#ksubdomain) 
@@ -9,20 +9,31 @@
   * [Pocsuite3](#pocsuite3)
   * [Zoomeye SDK](#Zoomeye-SDK)
   * [wam](#wam)
-  
 * [Minitools](#minitools)
-  
-  	- [bin_extractor](#bin_extractor)
-  	- [CookieTest](#cookietest)
-  
-  * [ipstatistics](#ipstatistics)
-  * [cidrgen](#cidrgen)
+  * [KunLun-M - phpunserializechain](#KunLun-M - phpunserializechain)
+  	* [bin_extractor](#bin_extractor)
+  	   * [CookieTest](#cookietest)
+  	
+  	  * [ipstatistics](#ipstatistics)
+  	  * [cidrgen](#cidrgen)
 
 
 
 # Project
 
 该分类下主要聚合各类安全工具，偏向于可用性较高的完整项目。
+
+
+
+## Portforward
+
+#### 项目链接：
+
+[https://github.com/knownsec/Portforward](https://github.com/knownsec/Portforward)
+
+#### 项目简述：
+
+PortForward 是使用 Golang 进行开发的端口转发工具，解决在某些场景下 内外网无法互通的问题。
 
 
 
@@ -130,6 +141,18 @@ VDR Model：此模块管理器在历史记录中的所有应用程序包，并�
 # Minitools
 
 该分类下主要聚合各类安全研究过程中涉及到的小工具、脚本，旨在优化日常安全自动化的使用体验。
+
+
+
+## KunLun-M - phpunserializechain
+
+#### 项目链接：
+
+[https://github.com/LoRexxar/Kunlun-M/tree/master/core/plugins/phpunserializechain](https://github.com/LoRexxar/Kunlun-M/tree/master/core/plugins/phpunserializechain)
+
+#### 项目简述：
+
+基于.QL的概念探索出的一套CodeDB，探索性的完成了一个针对寻找PHP反序列化链的工具demo，目前还是demo性质的，还有很多问题需要解决。
 
 
 
