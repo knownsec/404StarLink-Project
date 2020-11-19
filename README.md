@@ -1,6 +1,6 @@
 # 404 StarLink Project - 404星链计划
 
-![](./logo.png)
+<div align=center>![](./logo.png)</div>
 
 The  404 Starlink Project was started by Knownsec 404Team in 2020. We aim to denfend network and promote the  Instrumentalizing  of security research in different fields through open source or open methods. Just like Starlink, this project will link researchers with different security background.
 
