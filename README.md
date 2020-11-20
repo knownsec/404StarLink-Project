@@ -14,7 +14,9 @@ Not only large tools which break security barriers，various small tools that op
 
 [星链计划中文版文档](./README_zh.md)
 
+2020年11月，知道创宇404实验室正式推出星链计划2.0。通过星链计划核心社群成员作为核心，筛选**优质、有意义、有趣、坚持维护**的开源项目加入星链计划2.0，由404实验室核心成员及星链计划核心成员作为背书，将优质的开源项目汇聚成星河，为立足于不同安全领域的安全研究人员指明方向，代号**Galaxy**。
 
+[星链计划2.0 Galaxy](https://github.com/knownsec/404StarLink2.0-Galaxy)
 
 # Stargazers 
 
@@ -25,7 +27,6 @@ Not only large tools which break security barriers，various small tools that op
 # Contents
 
 * [Project](#project)
-  
   * [Portforward](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#portforward)
     * PortForward is a port forwarding tool developed using Golang.
   
