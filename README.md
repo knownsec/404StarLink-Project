@@ -26,8 +26,6 @@ Not only large tools which break security barriers，various small tools that op
 # Contents
 
 - Reconnaissance 信息收集
-    * [Portforward](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#portforward)
-        * PortForward is a port forwarding tool developed using Golang.
     * [ksubdomain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#ksubdomain) 
         * the fastest subdomain enumeration tool
     * [Zoomeye Tools](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#zoomeye-tools)
@@ -49,7 +47,7 @@ Not only large tools which break security barriers，various small tools that op
     * [KunLun-M - phpunserializechain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#kunlun-m---phpunserializechain)
         * A demo tool based on codedb to find the php deserialization chain.
     * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[KunLun-M - EntranceFinder](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#kunlun-m---EntranceFinder)
-        * A little tool to find the php entry page..
+        * A little tool to find the php entry page.
 
 - Back-penetration, intranet tools  后渗透、内网工具
     * [Portforward](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#portforward)

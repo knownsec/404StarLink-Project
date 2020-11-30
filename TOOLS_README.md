@@ -1,37 +1,121 @@
 # Contents
 
-* [Project](#project)
-  * [Portforward](#portforward)
-  * [KunLun-M](#kunlun-m)
-  * [LBot](#lbot)
-  * [ksubdomain](#ksubdomain) 
-  * [Zoomeye Tools](#zoomeye-tools)
-  * [Pocsuite3](#pocsuite3)
-  * [Zoomeye SDK](#Zoomeye-SDK)
-  * [wam](#wam)
-* [Minitools](#minitools)
-  * [KunLun-M - phpunserializechain](#kunlun-m---phpunserializechain)
-  * [bin_extractor](#bin_extractor)
-   * [CookieTest](#cookietest)
-  * [ipstatistics](#ipstatistics)
-  * [cidrgen](#cidrgen)
+* [Contents](#contents)
+  * [Reconnaissance](#reconnaissance)
+     * [ksubdomain](#ksubdomain)
+     * [Zoomeye Tools](#zoomeye-tools)
+     * [Zoomeye SDK](#zoomeye-sdk)
+  * [Vulnerability Assessment](#vulnerability-assessment)
+     * [Pocsuite3](#pocsuite3)
+  * [Penetration Test](#penetration-test)
+     * [shellcodeloader](#shellcodeloader)
+  * [Information analysis](#information-analysis)
+     * [KunLun-M](#kunlun-m)
+     * [KunLun-M - phpunserializechain](#kunlun-m---phpunserializechain)
+     * [KunLun-M - EntranceFinder](#kunlun-m---entrancefinder)
+  * [Back-penetration, intranet tools](#back-penetration-intranet-tools)
+     * [Portforward](#portforward)
+  * [Others](#others)
+     * [LBot](#lbot)
+     * [wam](#wam)
+  * [Minitools](#minitools)
+     * [bin_extractor](#bin_extractor)
+     * [CookieTest](#cookietest)
+     * [ipstatistics](#ipstatistics)
+     * [cidrgen](#cidrgen)
 
 
-# Project
+# Reconnaissance
 
-This category mainly aggregates various security tools, and prefers complete projects with higher availability.
+Information collection of the target before penetration testing
 
 
 
-## Portforward
+## ksubdomain
 
 #### Project link：
 
-[https://github.com/knownsec/Portforward](https://github.com/knownsec/Portforward)
+[https://github.com/knownsec/ksubdomain](https://github.com/knownsec/ksubdomain)
 
 #### Project Overview：
 
-PortForward is a port forwarding tool developed using Golang, which solves the problem that the internal and external networks cannot communicate in certain scenarios.
+ksubdomain is the fastest subdomain enumeration tool, and it runs on Windows/Linux/Mac.
+
+
+
+## Zoomeye Tools
+
+#### Project link：
+
+[https://github.com/knownsec/Zoomeye-Tools](https://github.com/knownsec/Zoomeye-Tools)
+
+#### Project Overview：
+
+Zoomeye Tools includes Zoomeye minitools and Zoomeye preview.
+
+Minitools is currently integrated for use in zoomeye.org, copy all targets in multiple formats, and enter the next scan in a convenient and quick way.
+
+Preview implements a simple Zoomeye interface. When a user login and clicks on preview, he can quickly and easily see various information of the current station ip and open port information.
+
+
+
+## Zoomeye SDK
+
+#### Project link：
+
+[https://github.com/knownsec/ZoomEye](https://github.com/knownsec/ZoomEye)
+
+#### Project Overview：
+
+[ZoomEye](https://www.zoomeye.org/) is a search engine for cyberspace that lets the user find specific network components(ip, services, etc.).
+
+[ZoomEye API](https://www.zoomeye.org/api/doc) is a web service that provides convenient access to ZoomEye features, data, information over HTTPS. The platform API empowers developers to automate, extend and connected with ZoomEye. You can use the ZoomEye platform API to programmatically create apps, provision some add-ons and perform some automate tasks. Just imagine that what you could do amazing stuff with ZoomEye.
+
+
+
+# Vulnerability Assessment
+
+Vulnerability scanning and detection of targets
+
+
+
+## Pocsuite3
+
+#### Project link：
+
+[https://github.com/knownsec/pocsuite3](https://github.com/knownsec/pocsuite3)
+
+#### Project Overview：
+
+pocsuite3 is an open-sourced remote vulnerability testing and proof-of-concept development framework developed by the [**Knownsec 404 Team**](http://www.knownsec.com/). It comes with a powerful proof-of-concept engine, many powerful features for the ultimate penetration testers and security researchers.
+
+
+
+# Penetration Test
+
+Penetration test on target
+
+
+
+## shellcodeloader
+
+#### Project link：
+
+[https://github.com/knownsec/shellcodeloader](https://github.com/knownsec/shellcodeloader)
+
+#### Project Overview：
+
+Because shellcode can be changed and restored at will, it is difficult to check and kill. Therefore, it is one of the most popular ways to bypass AV by making shellcode Trojan. However, for the conventional production method of shellcode payload of cobalt strike, the shellcode text needs to be encrypted, and put into the source code to find a way to bypass AV, then compile. 
+
+The process is too cumbersome. Many of the steps are time-consuming and labor-consuming. After changing shellcode, many processes need to be repeated. 
+
+This tool aims to solve most of the repetitive work in shellcodeloader generation process, reduce the working time of bypass AV, and put more energy on penetration or discovery of new ways to bypass AV.
+
+
+
+# Information analysis
+
+Analysis and processing of information in the penetration process, including code audits, etc.
 
 
 
@@ -51,6 +135,52 @@ KunLun-M may be the only open source and long-term maintained automated code aud
 
 
 
+## KunLun-M - phpunserializechain
+
+#### Project link：
+
+[https://github.com/LoRexxar/Kunlun-M/tree/master/core/plugins/phpunserializechain](https://github.com/LoRexxar/Kunlun-M/tree/master/core/plugins/phpunserializechain)
+
+#### Project Overview：
+
+Based on the concept of .QL, a set of CodeDB was explored, and a tool demo for finding the PHP deserialization chain was exploratoryly completed. It is still demo in nature, and there are still many problems to be solved.
+
+
+
+## KunLun-M - EntranceFinder
+
+#### Project link：
+
+[https://github.com/LoRexxar/Kunlun-M/tree/master/core/plugins/entrancefinder](https://github.com/LoRexxar/Kunlun-M/tree/master/core/plugins/entrancefinder)
+
+#### Project Overview：
+
+An interesting small tool for quickly discovering possible entry pages (or missing by developers) when auditing a large amount of php code.
+
+
+
+# Back-penetration, intranet tools
+
+Including maintenance of permissions after penetration and intranet tools, etc.
+
+
+
+## Portforward
+
+#### Project link：
+
+[https://github.com/knownsec/Portforward](https://github.com/knownsec/Portforward)
+
+#### Project Overview：
+
+PortForward is a port forwarding tool developed using Golang, which solves the problem that the internal and external networks cannot communicate in certain scenarios.
+
+
+
+# Others
+
+the others
+
 ## LBot
 
 #### Project link：
@@ -65,57 +195,8 @@ LBot is a simple template born out of a crawler. With the corresponding function
 
 
 
-## ksubdomain
-#### Project link：
-
-[https://github.com/knownsec/ksubdomain](https://github.com/knownsec/ksubdomain)
-
-#### Project Overview：
-
-ksubdomain is the fastest subdomain enumeration tool, and it runs on Windows/Linux/Mac.
-
-
-
-## Zoomeye Tools
-#### Project link：
-
-[https://github.com/knownsec/Zoomeye-Tools](https://github.com/knownsec/Zoomeye-Tools)
-
-#### Project Overview：
-
-Zoomeye Tools includes Zoomeye minitools and Zoomeye preview.
-
-Minitools is currently integrated for use in zoomeye.org, copy all targets in multiple formats, and enter the next scan in a convenient and quick way.
-
-Preview implements a simple Zoomeye interface. When a user login and clicks on preview, he can quickly and easily see various information of the current station ip and open port information.
-
-
-
-## Pocsuite3
-#### Project link：
-
-[https://github.com/knownsec/pocsuite3](https://github.com/knownsec/pocsuite3)
-
-#### Project Overview：
-
-pocsuite3 is an open-sourced remote vulnerability testing and proof-of-concept development framework developed by the [**Knownsec 404 Team**](http://www.knownsec.com/). It comes with a powerful proof-of-concept engine, many powerful features for the ultimate penetration testers and security researchers.
-
-
-
-## Zoomeye SDK
-#### Project link：
-
-[https://github.com/knownsec/ZoomEye](https://github.com/knownsec/ZoomEye)
-
-#### Project Overview：
-
-[ZoomEye](https://www.zoomeye.org/) is a search engine for cyberspace that lets the user find specific network components(ip, services, etc.).
-
-[ZoomEye API](https://www.zoomeye.org/api/doc) is a web service that provides convenient access to ZoomEye features, data, information over HTTPS. The platform API empowers developers to automate, extend and connected with ZoomEye. You can use the ZoomEye platform API to programmatically create apps, provision some add-ons and perform some automate tasks. Just imagine that what you could do amazing stuff with ZoomEye.
-
-
-
 ## wam
+
 #### Project link：
 
 [https://github.com/knownsec/wam](https://github.com/knownsec/wam)
@@ -132,22 +213,9 @@ VDR Model: This module manager all of application package in the history, and sa
 
 
 
-
 # Minitools
 
 This category mainly aggregates gadgets and scripts involved in various security research processes, aiming to optimize the daily security automation experience.
-
-
-
-## KunLun-M - phpunserializechain
-
-#### Project link：
-
-[https://github.com/LoRexxar/Kunlun-M/tree/master/core/plugins/phpunserializechain](https://github.com/LoRexxar/Kunlun-M/tree/master/core/plugins/phpunserializechain)
-
-#### Project Overview：
-
-Based on the concept of .QL, a set of CodeDB was explored, and a tool demo for finding the PHP deserialization chain was exploratoryly completed. It is still demo in nature, and there are still many problems to be solved.
 
 
 
