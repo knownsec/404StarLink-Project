@@ -30,15 +30,17 @@ Not only large tools which break security barriers，various small tools that op
         * the fastest subdomain enumeration tool
     * [Zoomeye Tools](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#zoomeye-tools)
         * the Chrome extension with Zoomeye
-    * [Zoomeye SDK](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#zoomeye-sdk)
+    * [Zoomeye-python](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#zoomeye-python) ![](https://img.shields.io/badge/-New-red) 
         * ZoomEye API SDK
     
 - Vulnerability Assessment 漏洞探测
     * [Pocsuite3](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#pocsuite3)
         * pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team.
-
+* [LSpider](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#lspider) ![](https://img.shields.io/badge/-New-red)
+        * LSpider is a front-end crawler for passive scanners~
+    
 - Penetration Test 攻击与利用
-    * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ShellcodeLoader](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#shellcodeloader)
+    * [ShellcodeLoader](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#shellcodeloader)
         * ShellcodeLoader of windows can bypass AV.
 
 - Information analysis 信息分析
@@ -46,7 +48,7 @@ Not only large tools which break security barriers，various small tools that op
         * Kunlun-Mirror. Focus on white box tools used by security researchers
     * [KunLun-M - phpunserializechain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#kunlun-m---phpunserializechain)
         * A demo tool based on codedb to find the php deserialization chain.
-    * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[KunLun-M - EntranceFinder](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#kunlun-m---EntranceFinder)
+    * [KunLun-M - EntranceFinder](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README.md#kunlun-m---EntranceFinder)
         * A little tool to find the php entry page.
 
 - Back-penetration, intranet tools  后渗透、内网工具

@@ -13,15 +13,17 @@
         * 最快的子域名爆破工具
     * [Zoomeye Tools](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-tools)
         * Zoomeye Tools是配合Zoomeye使用的Chrome插件
-    * [Zoomeye SDK](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-sdk)
-        * ZoomEye API SDK
+    * [Zoomeye-python](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#zoomeye-python) ![](https://img.shields.io/badge/-New-red) 
+        * ZoomEye-python 是基于Zoomeye API开发的python库，同时也可以作为SDK集成其他工具。
     
 - 漏洞探测
     * [Pocsuite3](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#pocsuite3)
         * 开源的python3漏洞测试框架
-
+* [LSpider](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#lspider) ![](https://img.shields.io/badge/-New-red) 
+        * 一款为被动扫描器而生的前端爬虫~
+    
 - 攻击与利用
-    * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[ShellcodeLoader](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#shellcodeloader)
+    * [ShellcodeLoader](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#shellcodeloader)
         * Windows平台的shellcode免杀加载器。
 
 - 信息分析
@@ -29,7 +31,7 @@
         * Kunlun-Mirror. 专注于安全研究人员使用的白盒代码审计工具
     * [KunLun-M - phpunserializechain](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#kunlun-m---phpunserializechain)
         * 基于.QL的概念探索出的一套CodeDB，一个针对寻找PHP反序列化链的demo
-    * ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[KunLun-M - EntranceFinder](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#kunlun-m---EntranceFinder)
+    * [KunLun-M - EntranceFinder](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#kunlun-m---EntranceFinder)
         * 一个简单的工具用于寻找php项目的入口文件
 
 - 后渗透、内网工具
@@ -44,9 +46,9 @@
 
 - Minitools
   	* [bin_extractor](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#bin_extractor)
-    	* 一个简单的用于快速挖掘二进制文件中敏感信息的脚本
-   	* [CookieTest](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cookietest)
-         	* 用于快速测试api或某个请求的必选参数、cookie的脚本.
+       * 一个简单的用于快速挖掘二进制文件中敏感信息的脚本
+   * [CookieTest](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cookietest)
+       * 用于快速测试api或某个请求的必选参数、cookie的脚本.
  	* [ipstatistics](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ipstatistics)
         	* ipstatistics是一个基于ipip库的，用于快速筛选ip列表的脚本
   	* [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cidrgen)

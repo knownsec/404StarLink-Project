@@ -59,17 +59,15 @@ Preview implements a simple Zoomeye interface. When a user login and clicks on p
 
 
 
-## Zoomeye SDK
+## [Zoomeye-python](https://github.com/knownsec/ZoomEye-python)
 
 #### Project link：
 
-[https://github.com/knownsec/ZoomEye](https://github.com/knownsec/ZoomEye)
+https://github.com/knownsec/ZoomEye-python
 
 #### Project Overview：
 
-[ZoomEye](https://www.zoomeye.org/) is a search engine for cyberspace that lets the user find specific network components(ip, services, etc.).
-
-[ZoomEye API](https://www.zoomeye.org/api/doc) is a web service that provides convenient access to ZoomEye features, data, information over HTTPS. The platform API empowers developers to automate, extend and connected with ZoomEye. You can use the ZoomEye platform API to programmatically create apps, provision some add-ons and perform some automate tasks. Just imagine that what you could do amazing stuff with ZoomEye.
+`ZoomEye-python` is a Python library developed based on the `ZoomEye API`. It provides the `ZoomEye command line` mode and can also be integrated into other tools as an `SDK`. The library allows technicians to **search**, **filter**, and **export** `ZoomEye` data more conveniently.
 
 
 
@@ -88,6 +86,32 @@ Vulnerability scanning and detection of targets
 #### Project Overview：
 
 pocsuite3 is an open-sourced remote vulnerability testing and proof-of-concept development framework developed by the [**Knownsec 404 Team**](http://www.knownsec.com/). It comes with a powerful proof-of-concept engine, many powerful features for the ultimate penetration testers and security researchers.
+
+
+
+## [LSpider](https://github.com/knownsec/LSpider)
+
+#### Project link：
+
+https://github.com/knownsec/LSpider
+
+#### Project Overview：
+
+A front-end crawler for passive scanners~ It is composed of five parts: Chrome Headless, LSpider master control, Mysql database, RabbitMQ, and passive scanner. 
+
+(1) Based on Chrome Headless, the core principle is to simulate clicks and trigger events, and to export traffic to the passive scanner by setting a proxy. 
+
+(2) Divergent crawling through the built-in task + subdomain api, the purpose may trigger the traffic of the corresponding target domain. 
+
+(3) Task management is carried out through RabbitMQ, supporting a large number of threads at the same time. 
+
+(4) Fill in the form intelligently, submit the form, etc. 
+
+(5) Use some methods to intelligently judge the login box and feed it back to the user. The user can complete the login by adding a cookie. 
+
+(6) Customized the corresponding Webhook interface for sending Webhook statistics to WeChat. 
+
+(7) Built-in Hackerone and bugcrowd crawlers, you can get all the range of a target with one click when you provide an account.
 
 
 

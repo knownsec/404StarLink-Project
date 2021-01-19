@@ -4,9 +4,10 @@
   * [信息收集](#信息收集)
     * [ksubdomain](#ksubdomain)
     * [Zoomeye Tools](#zoomeye-tools)
-    * [Zoomeye SDK](#zoomeye-sdk)
+    * [Zoomeye-python](#zoomeye-python)
   * [漏洞探测](#漏洞探测)
     * [Pocsuite3](#pocsuite3)
+    * [LSpider](#lspider)
   * [攻击与利用](#攻击与利用)
     * [shellcodeloader](#shellcodeloader)
   * [信息分析](#信息分析)
@@ -60,17 +61,16 @@ preview实现了一个简易的Zoomeye界面，当用户登录并点开preview�
 
 
 
-## Zoomeye SDK
+## [Zoomeye-python](https://github.com/knownsec/ZoomEye-python)
 
-#### 项目链接：
+##### 项目链接：
 
-[https://github.com/knownsec/ZoomEye](https://github.com/knownsec/ZoomEye)
+https://github.com/knownsec/ZoomEye-python
 
-#### 项目简述：
+##### 项目简述：
+ZoomEye 是一款网络空间搜索引擎，用户可以使用浏览器方式 https://www.zoomeye.org 搜索网络设备。
 
-[ZoomEye](https://www.zoomeye.org/)是用于网络空间的搜索引擎，可让用户查找特定的网络组件（ip，服务等）。
-
-[ZoomEye API](https://www.zoomeye.org/api/doc)是一项Web服务，可通过HTTPS方便地访问ZoomEye功能，数据和信息。 平台API使开发人员能够自动化，扩展和连接ZoomEye。 您可以使用ZoomEye平台API来以编程方式创建应用，提供一些附加组件并执行一些自动化任务。 试想一下，使用ZoomEye可以做得很棒。
+ZoomEye-python 是一款基于 ZoomEye API 开发的 Python 库，提供了 ZoomEye 命令行模式，同时也可以作为 SDK 集成到其他工具中。该库可以让技术人员更便捷地搜索、筛选、导出 ZoomEye 的数据。
 
 
 
@@ -89,6 +89,33 @@ preview实现了一个简易的Zoomeye界面，当用户登录并点开preview�
 #### 项目简述：
 
 pocsuite3是由Knownsec 404团队开发的开源远程漏洞测试和概念验证开发框架。它带有强大的概念验证引擎，以及针对最终渗透测试人员和安全研究人员的许多强大功能。
+
+
+
+## [LSpider](https://github.com/knownsec/LSpider)
+
+##### 项目链接：
+
+https://github.com/knownsec/LSpider
+
+##### 项目简述：
+一款为被动扫描器而生的前端爬虫~
+
+由Chrome Headless、LSpider主控、Mysql数据库、RabbitMQ、被动扫描器5部分组合而成。
+
+(1) 建立在Chrome Headless基础上，将模拟点击和触发事件作为核心原理，通过设置代理将流量导出到被动扫描器。
+
+(2) 通过内置任务+子域名api来进行发散式的爬取，目的经可能的触发对应目标域的流量。
+
+(3) 通过RabbitMQ来进行任务管理，支持大量线程同时任务。
+
+(4) 智能填充表单，提交表单等。
+
+(5) 通过一些方式智能判断登录框，并反馈给使用者，使用者可以通过添加cookie的方式来完成登录。
+
+(6) 定制了相应的Webhook接口，以供Webhook统计发送到微信。
+
+(7) 内置了Hackerone、bugcrowd爬虫，提供账号的情况下可以一键获取某个目标的所有范围。
 
 
 
