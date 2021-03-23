@@ -6,6 +6,18 @@
 
 其中不仅限于突破安全壁垒的大型工具，也会包括涉及到优化日常使用体验的各种小工具，除了404本身的工具开放以外，也会不断收集安全研究、渗透测试过程中的痛点，希望能通过“404星链计划”改善安全圈内工具庞杂、水平层次不齐、开源无人维护的多种问题，营造一个更好更开放的安全工具促进与交流的技术氛围。
 
+# Update
+
+这里会更新最近涉及更新的项目
+
+- 2021.3.23 [**星链计划2.0-Galaxy**](https://github.com/knownsec/404StarLink2.0-Galaxy)
+
+  	星链计划2.0-Galaxy 收录[**linglong**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#linglong-)、[**Viper**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#viper-)、[**CodeReviewTools**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#codereviewtools-)。
+
+- 2021.3.23 [**Zoomeye-python**](https://github.com/knownsec/ZoomEye-python)
+
+  	Zoomeye-python更新v2.0.4.1.
+
 # Contents
 
 - 信息收集
