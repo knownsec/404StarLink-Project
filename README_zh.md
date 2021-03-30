@@ -10,17 +10,25 @@
 
 这里会更新最近涉及更新的项目
 
+- 2021.3.28 [**f8x**](https://github.com/ffffffff0x/f8x)
+
+  ​	fax 更新1.4.8
+
+- 2021.3.28 [**antSword**](https://github.com/AntSwordProject/antSword)
+
+  ​	antSword 更新v2.1.11
+
 - 2021.3.28 [**Viper**](https://github.com/FunnyWolf/Viper)
 
-  Viper 更新 v1.3.0 20210328
+  ​	Viper 更新 v1.3.0 20210328
 
 - 2021.3.23 [**星链计划2.0-Galaxy**](https://github.com/knownsec/404StarLink2.0-Galaxy)
 
-   星链计划2.0-Galaxy 收录[**linglong**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#linglong-)、[**Viper**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#viper-)、[**CodeReviewTools**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#codereviewtools-)。
+   ​	星链计划2.0-Galaxy 收录[**linglong**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#linglong-)、[**Viper**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#viper-)、[**CodeReviewTools**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#codereviewtools-)。
 
 - 2021.3.23 [**Zoomeye-python**](https://github.com/knownsec/ZoomEye-python)
 
-   Zoomeye-python更新v2.0.4.1.
+   ​	Zoomeye-python更新v2.0.4.1.
 
 # Contents
 
