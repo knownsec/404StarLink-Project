@@ -25,17 +25,25 @@ Not only large tools which break security barriers，various small tools that op
 
 # Update
 
-- 2021.4.9 [**Zoomeye-python**](https://github.com/knownsec/ZoomEye-python)
+- 2021.4.9 [**Viper**](https://github.com/FunnyWolf/Viper)
 
-  ​	ZoomEye-python update v2.0.4.6
+  ​	Viper 更新v1.3.3
 
-- 2021.4.8 [**f8x**](https://github.com/ffffffff0x/f8x)
+- 2021.4.18 [**frida-skeleton**](https://github.com/Margular/frida-skeleton)
 
-   ​	fax update v1.5.0
+   ​	frida-skeleton 更新v3.2.1
 
-- 2021.4.8 [**Viper**](https://github.com/FunnyWolf/Viper)
+- 2021.4.17 [**gshark**](https://github.com/madneal/gshark)
 
-   ​	Viper update v1.3.2 
+   ​	gshark 更新 v1.7.1
+
+- 2021.4.15 [**f8x**](https://github.com/ffffffff0x/f8x)
+
+   ​	f8x 更新 v1.5.1
+
+- 2021.4.14 [**CDK**](https://github.com/cdk-team/CDK)
+
+   ​	CDK 更新 v1.0.1
 
 - 2021.3.23 [**404StarLink2.0-Galaxy**](https://github.com/knownsec/404StarLink2.0-Galaxy)
 
