@@ -10,7 +10,11 @@
 
 这里会更新最近涉及更新的项目
 
-- 2021.4.9 [**Viper**](https://github.com/FunnyWolf/Viper)
+- 2021.4.22 [**星链计划2.0-Galaxy**](https://github.com/knownsec/404StarLink2.0-Galaxy)
+
+  	星链计划2.0-Galaxy 收录[**Elkeid**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#Elkeid)、[**fscan**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#fscan)、[**As-Exploits**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#As-Exploits)。
+
+- 2021.4.18 [**Viper**](https://github.com/FunnyWolf/Viper)
 
   ​	Viper 更新v1.3.3
 
