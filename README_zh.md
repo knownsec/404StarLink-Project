@@ -10,29 +10,21 @@
 
 这里会更新最近涉及更新的项目
 
+- 2021.4.25 [**Viper**](https://github.com/FunnyWolf/Viper)
+
+  ​	Viper 更新v1.3.4
+
+- 2021.4.24 [**gshark**](https://github.com/madneal/gshark)
+
+   ​	gshark 更新 v0.7.7
+
+- 2021.4.24 [**f8x**](https://github.com/ffffffff0x/f8x)
+
+   ​	f8x 更新 v1.5.2
+
 - 2021.4.22 [**星链计划2.0-Galaxy**](https://github.com/knownsec/404StarLink2.0-Galaxy)
 
-  	星链计划2.0-Galaxy 收录[**Elkeid**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#Elkeid)、[**fscan**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#fscan)、[**As-Exploits**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#As-Exploits)。
-
-- 2021.4.18 [**Viper**](https://github.com/FunnyWolf/Viper)
-
-  ​	Viper 更新v1.3.3
-
-- 2021.4.18 [**frida-skeleton**](https://github.com/Margular/frida-skeleton)
-
-   ​	frida-skeleton 更新v3.2.1
-
-- 2021.4.17 [**gshark**](https://github.com/madneal/gshark)
-
-   ​	gshark 更新 v1.7.1
-
-- 2021.4.15 [**f8x**](https://github.com/ffffffff0x/f8x)
-
-   ​	f8x 更新 v1.5.1
-
-- 2021.4.14 [**CDK**](https://github.com/cdk-team/CDK)
-
-   ​	CDK 更新 v1.0.1
+   ​	星链计划2.0-Galaxy 收录[**Elkeid**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#Elkeid)、[**fscan**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#fscan)、[**As-Exploits**](https://github.com/knownsec/404StarLink2.0-Galaxy/blob/master/TOOLS_README.md#As-Exploits)。
 
 - 2021.3.23 [**星链计划2.0-Galaxy**](https://github.com/knownsec/404StarLink2.0-Galaxy)
 
@@ -81,10 +73,11 @@
        * 一个简单的用于快速挖掘二进制文件中敏感信息的脚本
    * [CookieTest](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cookietest)
        * 用于快速测试api或某个请求的必选参数、cookie的脚本.
+
  	* [ipstatistics](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#ipstatistics)
-        	* ipstatistics是一个基于ipip库的，用于快速筛选ip列表的脚本
-  	* [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cidrgen)
-        	* cidrgen基于cidr的子网IP列表生成器
+ 	    	* ipstatistics是一个基于ipip库的，用于快速筛选ip列表的脚本
+ 	* [cidrgen](https://github.com/knownsec/404StarLink-Project/blob/master/TOOLS_README_zh.md#cidrgen)
+ 	    	* cidrgen基于cidr的子网IP列表生成器
 
 
 # Loading
